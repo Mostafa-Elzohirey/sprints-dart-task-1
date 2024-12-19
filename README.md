@@ -7,7 +7,7 @@ declared constant taxRate to represent the 10% fixed tax rate
 ```dart
   const taxRate=0.1;
 ```
-declared to variables of type double to store the prices before and after tax
+declared two variables of type double to store the prices before and after tax
 ```dart
   double priceBeforeTax = 0;
   double priceAfterTax = 0;
